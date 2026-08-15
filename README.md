@@ -150,7 +150,8 @@ SupportSense-FineTuning/
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_URL)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gnxySfuJ-Qsq8TwKf5uIAKoYR_WZ7lPn?usp=sharing)
+
 
 The complete training workflow is available in:
 [`notebooks/SupportSense_FineTuning.ipynb`](notebooks/SupportSense_FineTuning.ipynb)
